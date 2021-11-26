@@ -10,7 +10,7 @@ The gameplay involes a monkey being able to move from side to side to catch fall
 Pillars
 Highscore: every five bananas cought in a row gives a bonus.
 Customization: Wide variety of shirts to unlock and equip.
-Music: There are different tunes that the player can unlock and select to play in the background.
+Music: There are different tunes that the player can unlock and select to play in the background
 
 Features
 In our game after you catch 5 banans in a row the monkey will do a little dance of excitement and also each time you catch a banana you will get a piece of gold that then you can spend in the shop to buy new skins for the monkey and also skins for the bananas  
