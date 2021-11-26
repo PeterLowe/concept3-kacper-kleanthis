@@ -1,10 +1,16 @@
 Title
-...
+Monkey Time
+
 Elavator Pitch
-...
+A monkey in a hawaiian shirt catching bananas, by the beach. 
+
 30 second  gameplay description
 ...
+
 Pillars
-...
+Highscore: every five bananas cought in a row gives a bonus.
+Customization: Wide variety of shirts to unlock and equip.
+Music: There are different tunes that the player can unlock and select to play in the background.
+
 Features
 ...
